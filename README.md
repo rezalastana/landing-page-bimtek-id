@@ -1,6 +1,6 @@
 <h2 align="center">Landing Page</h2>
 <p align="center">BIMTEK_ID  - Build using React JS and Tailwind</p>
-<img src="./dist/bimtek_id.jpg" />
+<img src="./src/images/bimtek_id.png" />
 
 ## About
  
